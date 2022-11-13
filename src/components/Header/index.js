@@ -2,7 +2,7 @@ import AddIcon from "@mui/icons-material/Add";
 import VideocamOutlinedIcon from "@mui/icons-material/VideocamOutlined";
 import { Box } from "@mui/material";
 import { IconButton, Typography } from "@mui/material";
-import "./index.css";
+
 export const Header = () => {
   return (
     <>
@@ -11,7 +11,7 @@ export const Header = () => {
           display: "flex",
           justifyContent: "space-between",
           height: "50px",
-          m: 3,
+          m: 2,
         }}
       >
         <Box sx={{ m: 1, display: "flex", alignItems: "center" }}>
