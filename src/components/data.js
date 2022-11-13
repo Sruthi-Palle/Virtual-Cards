@@ -1,6 +1,6 @@
 export const data = [
   {
-    name: "Mamie Turner",
+    name_owner: "Manuel Braun V",
     data: [
       {
         name: "Mixmax",
@@ -26,7 +26,7 @@ export const data = [
     id: "1",
   },
   {
-    name: "Dr. Angelica Marquardt",
+    name_owner: "Mr. Wanda Larkin",
     data: [
       {
         name: "Mixmax",
@@ -52,7 +52,7 @@ export const data = [
     id: "2",
   },
   {
-    name: "Dixie Braun",
+    name_owner: "Rosemarie Schamberger",
     data: [
       {
         name: "Mixmax",
@@ -78,7 +78,7 @@ export const data = [
     id: "3",
   },
   {
-    name: "Dolores Smith",
+    name_owner: "Wilbur Gutkowski",
     data: [
       {
         name: "Mixmax",
@@ -104,7 +104,7 @@ export const data = [
     id: "4",
   },
   {
-    name: "Alfonso Christiansen",
+    name_owner: "Beth Zboncak III",
     data: [
       {
         name: "Mixmax",
@@ -130,7 +130,7 @@ export const data = [
     id: "5",
   },
   {
-    name: "Mary Kilback",
+    name_owner: "Dixie Kuhn",
     data: [
       {
         name: "Mixmax",
@@ -156,7 +156,7 @@ export const data = [
     id: "6",
   },
   {
-    name: "Dr. Randy Gerlach",
+    name_owner: "Dawn Trantow",
     data: [
       {
         name: "Mixmax",
@@ -182,7 +182,7 @@ export const data = [
     id: "7",
   },
   {
-    name: "Lorraine Adams",
+    name_owner: "Mr. Candice Morar",
     data: [
       {
         name: "Mixmax",
@@ -208,7 +208,7 @@ export const data = [
     id: "8",
   },
   {
-    name: "Dexter Kub",
+    name_owner: "Willie Hettinger",
     data: [
       {
         name: "Mixmax",
@@ -234,7 +234,7 @@ export const data = [
     id: "9",
   },
   {
-    name: "Angel Leffler",
+    name_owner: "Lester McClure",
     data: [
       {
         name: "Mixmax",
